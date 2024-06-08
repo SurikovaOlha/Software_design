@@ -16,11 +16,11 @@ _Дана програма реалізує простий чат-бот, яки
 
 ### _У даній програмі дотримано наступних принципів програмування:_
 
-`DRY` - уникнення дублювання коду, приклад: [function greetUser](src/js/index.js)
+`DRY` - уникнення дублювання коду, приклад: [function greetUser](https://github.com/SurikovaOlha/Software_design/blob/70e9999015014b2df1230d3c67453f95a8fd094c/lab-2/src/js/index.js#L6)
 
-`KISS` - простота коду, приклад: [function getAnswer](src/js/index.js)
+`KISS` - простота коду, приклад: [function getAnswer](https://github.com/SurikovaOlha/Software_design/blob/70e9999015014b2df1230d3c67453f95a8fd094c/lab-2/src/js/index.js#L15)
 
-`SOLID` - використання принципів об'єктно-орієнтованого програмування, приклад: [class ChatBot](src/js/index.js)
+`SOLID` - використання принципів об'єктно-орієнтованого програмування, приклад: [class ChatBot](https://github.com/SurikovaOlha/Software_design/blob/70e9999015014b2df1230d3c67453f95a8fd094c/lab-2/src/js/index.js#L20)
 
 `YAGNI` - уникнення зайвого функціоналу
 
